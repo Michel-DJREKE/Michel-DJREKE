@@ -7,9 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=Michel-DJREKE&label=Profile%20views&color=ff69b4&style=flat" />
   <img src="https://img.shields.io/badge/Status-Active%20Builder-brightgreen?style=flat&logo=vercel" />
   <img src="https://img.shields.io/badge/Focus-SaaS%20%26%20Products-blue?style=flat&logo=producthunt" />
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Michel-DJREKE&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" /> <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Design-Figma-orange?logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Platform-Supabase-green?logo=supabase&logoColor=white" alt="Supabase" /> </p>
+  <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Design-Figma-orange?logo=figma&logoColor=white" alt="Figma" /> 
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
+ 
 
 ---
 
